@@ -597,7 +597,7 @@ if __name__ == "__main__":
     import sys
 
     # ── PATHS — edit these two lines to point at your downloaded datasets ──────
-    ABALONE_CSV = r"M:\College\THIRD YEAR\second semmster\COGNITIVE\Assignment 1\Abalone\Abalone.csv"          # Kaggle Abalone CSV
+    ABALONE_CSV = r"M:\College\THIRD YEAR\second semmster\COGNITIVE\Assignment 1\\Abalone.csv"          # Kaggle Abalone CSV
     IMDB_DIR    = "aclImdb"              # extracted aclImdb folder
 
     # Optional: cap IMDB at N reviews per class to speed up testing
