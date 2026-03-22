@@ -1,0 +1,16 @@
+# Ignore dataset folders
+Abalone/
+aclImdb/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
